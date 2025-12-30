@@ -6,8 +6,6 @@ from time import sleep
 pygame.font.init()
 
 
-# hello
-
 def winner_menu():
     restart_button = pygame.image.load("restart.png")
     exit_button = pygame.image.load("exit.png")
